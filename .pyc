@@ -1,0 +1,2 @@
+Whenever we compile the source code written in python language, the extension od that source code is the .py. But if we have a source code that is written in python and store the file in the desired path, now to fecth this 
+file , we use the import filename command, and then we use the extension .pyc that actually works for the conversion of the source code to the bytecode. Therefore this .pyc extension is used to speed up the execution of the imported file code.
